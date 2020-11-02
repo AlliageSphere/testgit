@@ -1,2 +1,3 @@
 Un chouette texte.
 Un nouveau texte.
+Un super texte.
